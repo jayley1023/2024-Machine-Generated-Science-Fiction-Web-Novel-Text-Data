@@ -1,1 +1,1 @@
-This dataset comprises 200,000 words generated from excerpts of chapters produced by novels using models including ERNIE bot, Doubao, moon shot Kimi, and Qwen (October 2024 models). The prompt was constructed based on human-written sci-fi web novels.
+This dataset comprises 200,000 words of individual text generated from excerpts of chapters produced by novels using LLMs models including ERNIE bot, Doubao, Kimi, and Qwen (October 2024 version models). The prompt was constructed based on human-written sci-fi web novels.
